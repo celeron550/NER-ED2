@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-04-20">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Max Mosley" label="Max Mosley" />
+      <node id="Honda" label="Honda" />
+      <node id="Hamilton" label="Hamilton" />
+      <node id="De la Rosa" label="De la Rosa" />
+      <node id="FIA" label="FIA" />
+      <node id="Mike Coughlan" label="Mike Coughlan" />
+      <node id="Bernie Ecclestone" label="Bernie Ecclestone" />
+      <node id="Kimi Raikkonen" label="Kimi Raikkonen" />
+      <node id="Felipe Massa" label="Felipe Massa" />
+      <node id="Nigel Stepney" label="Nigel Stepney" />
+      <node id="Alonso" label="Alonso" />
+      <node id="McLaren (Woking)" label="McLaren (Woking)" />
+      <node id="Ron Dennis" label="Ron Dennis" />
+      <node id="Ferrari (Maranello)" label="Ferrari (Maranello)" />
+      <node id="Jean Todt" label="Jean Todt" />
+      <node id="Dossiê" label="Dossiê" />
+      <node id="Ross Brawn" label="Ross Brawn" />
+      <node id="McLaren" label="McLaren" />
+    </nodes>
+    <edges>
+      <edge source="Max Mosley" target="Honda" id="0" weight="3" />
+      <edge source="Max Mosley" target="Hamilton" id="1" weight="6" />
+      <edge source="Max Mosley" target="De la Rosa" id="2" weight="5" />
+      <edge source="Max Mosley" target="FIA" id="3" weight="7" />
+      <edge source="Max Mosley" target="Mike Coughlan" id="4" weight="4" />
+      <edge source="Max Mosley" target="Bernie Ecclestone" id="5" weight="6" />
+      <edge source="Max Mosley" target="Kimi Raikkonen" id="6" weight="6" />
+      <edge source="Max Mosley" target="Nigel Stepney" id="7" weight="6" />
+      <edge source="Max Mosley" target="Alonso" id="8" weight="6" />
+      <edge source="Max Mosley" target="McLaren (Woking)" id="9" weight="4" />
+      <edge source="Max Mosley" target="Ron Dennis" id="10" weight="5" />
+      <edge source="Max Mosley" target="Ferrari (Maranello)" id="11" weight="2" />
+      <edge source="Max Mosley" target="Jean Todt" id="12" weight="2" />
+      <edge source="Max Mosley" target="Dossiê" id="13" weight="2" />
+      <edge source="Max Mosley" target="Ross Brawn" id="14" weight="2" />
+      <edge source="Honda" target="Hamilton" id="15" weight="3" />
+      <edge source="Honda" target="De la Rosa" id="16" weight="2" />
+      <edge source="Honda" target="FIA" id="17" weight="3" />
+      <edge source="Honda" target="Mike Coughlan" id="18" weight="2" />
+      <edge source="Honda" target="Bernie Ecclestone" id="19" weight="3" />
+      <edge source="Honda" target="Kimi Raikkonen" id="20" weight="2" />
+      <edge source="Honda" target="Nigel Stepney" id="21" weight="3" />
+      <edge source="Honda" target="Alonso" id="22" weight="3" />
+      <edge source="Honda" target="McLaren (Woking)" id="23" weight="3" />
+      <edge source="Honda" target="Ron Dennis" id="24" weight="2" />
+      <edge source="Hamilton" target="De la Rosa" id="25" weight="5" />
+      <edge source="Hamilton" target="FIA" id="26" weight="6" />
+      <edge source="Hamilton" target="Mike Coughlan" id="27" weight="4" />
+      <edge source="Hamilton" target="Bernie Ecclestone" id="28" weight="5" />
+      <edge source="Hamilton" target="Kimi Raikkonen" id="29" weight="6" />
+      <edge source="Hamilton" target="Felipe Massa" id="30" weight="2" />
+      <edge source="Hamilton" target="Nigel Stepney" id="31" weight="6" />
+      <edge source="Hamilton" target="Alonso" id="32" weight="8" />
+      <edge source="Hamilton" target="McLaren (Woking)" id="33" weight="4" />
+      <edge source="Hamilton" target="Ron Dennis" id="34" weight="5" />
+      <edge source="Hamilton" target="Dossiê" id="35" weight="2" />
+      <edge source="De la Rosa" target="FIA" id="36" weight="6" />
+      <edge source="De la Rosa" target="Mike Coughlan" id="37" weight="4" />
+      <edge source="De la Rosa" target="Bernie Ecclestone" id="38" weight="4" />
+      <edge source="De la Rosa" target="Kimi Raikkonen" id="39" weight="5" />
+      <edge source="De la Rosa" target="Nigel Stepney" id="40" weight="5" />
+      <edge source="De la Rosa" target="Alonso" id="41" weight="6" />
+      <edge source="De la Rosa" target="McLaren (Woking)" id="42" weight="3" />
+      <edge source="De la Rosa" target="Ron Dennis" id="43" weight="4" />
+      <edge source="De la Rosa" target="Dossiê" id="44" weight="2" />
+      <edge source="FIA" target="Mike Coughlan" id="45" weight="7" />
+      <edge source="FIA" target="Bernie Ecclestone" id="46" weight="6" />
+      <edge source="FIA" target="Kimi Raikkonen" id="47" weight="6" />
+      <edge source="FIA" target="Nigel Stepney" id="48" weight="8" />
+      <edge source="FIA" target="Alonso" id="49" weight="9" />
+      <edge source="FIA" target="McLaren (Woking)" id="50" weight="4" />
+      <edge source="FIA" target="Ron Dennis" id="51" weight="6" />
+      <edge source="FIA" target="Ferrari (Maranello)" id="52" weight="2" />
+      <edge source="FIA" target="Jean Todt" id="53" weight="2" />
+      <edge source="FIA" target="Dossiê" id="54" weight="2" />
+      <edge source="FIA" target="Ross Brawn" id="55" weight="2" />
+      <edge source="Mike Coughlan" target="Bernie Ecclestone" id="56" weight="3" />
+      <edge source="Mike Coughlan" target="Kimi Raikkonen" id="57" weight="3" />
+      <edge source="Mike Coughlan" target="Nigel Stepney" id="58" weight="11" />
+      <edge source="Mike Coughlan" target="Alonso" id="59" weight="6" />
+      <edge source="Mike Coughlan" target="McLaren (Woking)" id="60" weight="4" />
+      <edge source="Mike Coughlan" target="Ron Dennis" id="61" weight="4" />
+      <edge source="Bernie Ecclestone" target="Kimi Raikkonen" id="62" weight="5" />
+      <edge source="Bernie Ecclestone" target="Nigel Stepney" id="63" weight="5" />
+      <edge source="Bernie Ecclestone" target="Alonso" id="64" weight="5" />
+      <edge source="Bernie Ecclestone" target="McLaren (Woking)" id="65" weight="4" />
+      <edge source="Bernie Ecclestone" target="Ron Dennis" id="66" weight="4" />
+      <edge source="Bernie Ecclestone" target="Dossiê" id="67" weight="2" />
+      <edge source="Bernie Ecclestone" target="Ross Brawn" id="68" weight="2" />
+      <edge source="Kimi Raikkonen" target="Felipe Massa" id="69" weight="2" />
+      <edge source="Kimi Raikkonen" target="Nigel Stepney" id="70" weight="5" />
+      <edge source="Kimi Raikkonen" target="Alonso" id="71" weight="8" />
+      <edge source="Kimi Raikkonen" target="McLaren (Woking)" id="72" weight="3" />
+      <edge source="Kimi Raikkonen" target="Ron Dennis" id="73" weight="4" />
+      <edge source="Kimi Raikkonen" target="Ferrari (Maranello)" id="74" weight="2" />
+      <edge source="Kimi Raikkonen" target="Jean Todt" id="75" weight="2" />
+      <edge source="Kimi Raikkonen" target="Dossiê" id="76" weight="2" />
+      <edge source="Kimi Raikkonen" target="Ross Brawn" id="77" weight="2" />
+      <edge source="Felipe Massa" target="Alonso" id="78" weight="2" />
+      <edge source="Nigel Stepney" target="Alonso" id="79" weight="6" />
+      <edge source="Nigel Stepney" target="McLaren (Woking)" id="80" weight="4" />
+      <edge source="Nigel Stepney" target="Ron Dennis" id="81" weight="5" />
+      <edge source="Nigel Stepney" target="Dossiê" id="82" weight="2" />
+      <edge source="Nigel Stepney" target="Ross Brawn" id="83" weight="2" />
+      <edge source="Alonso" target="McLaren (Woking)" id="84" weight="4" />
+      <edge source="Alonso" target="Ron Dennis" id="85" weight="8" />
+      <edge source="Alonso" target="Dossiê" id="86" weight="2" />
+      <edge source="McLaren (Woking)" target="Ron Dennis" id="87" weight="3" />
+      <edge source="Ron Dennis" target="Dossiê" id="88" weight="2" />
+      <edge source="Ferrari (Maranello)" target="Jean Todt" id="89" weight="2" />
+    </edges>
+  </graph>
+</gexf>

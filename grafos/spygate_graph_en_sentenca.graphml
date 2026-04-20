@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="long"/>
+<graph edgedefault="undirected"><node id="Felipe Massa"/>
+<node id="Kimi Raikkonen"/>
+<node id="Nigel Stepney"/>
+<node id="Mike Coughlan"/>
+<node id="Honda"/>
+<node id="FIA"/>
+<node id="Alonso"/>
+<node id="Hamilton"/>
+<node id="Bernie Ecclestone"/>
+<node id="Max Mosley"/>
+<node id="De la Rosa"/>
+<node id="McLaren (Woking)"/>
+<node id="Ron Dennis"/>
+<node id="Ross Brawn"/>
+<node id="Jean Todt"/>
+<edge source="Felipe Massa" target="Kimi Raikkonen">
+  <data key="d0">2</data>
+</edge>
+<edge source="Felipe Massa" target="Alonso">
+  <data key="d0">1</data>
+</edge>
+<edge source="Felipe Massa" target="Hamilton">
+  <data key="d0">1</data>
+</edge>
+<edge source="Kimi Raikkonen" target="Alonso">
+  <data key="d0">4</data>
+</edge>
+<edge source="Kimi Raikkonen" target="Hamilton">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nigel Stepney" target="Mike Coughlan">
+  <data key="d0">15</data>
+</edge>
+<edge source="Nigel Stepney" target="Honda">
+  <data key="d0">2</data>
+</edge>
+<edge source="Nigel Stepney" target="FIA">
+  <data key="d0">5</data>
+</edge>
+<edge source="Nigel Stepney" target="Ross Brawn">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nigel Stepney" target="Ron Dennis">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mike Coughlan" target="Honda">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mike Coughlan" target="FIA">
+  <data key="d0">4</data>
+</edge>
+<edge source="Mike Coughlan" target="McLaren (Woking)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mike Coughlan" target="De la Rosa">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mike Coughlan" target="Alonso">
+  <data key="d0">2</data>
+</edge>
+<edge source="FIA" target="Max Mosley">
+  <data key="d0">5</data>
+</edge>
+<edge source="FIA" target="Ron Dennis">
+  <data key="d0">4</data>
+</edge>
+<edge source="FIA" target="De la Rosa">
+  <data key="d0">3</data>
+</edge>
+<edge source="FIA" target="Alonso">
+  <data key="d0">6</data>
+</edge>
+<edge source="FIA" target="Hamilton">
+  <data key="d0">1</data>
+</edge>
+<edge source="FIA" target="Bernie Ecclestone">
+  <data key="d0">1</data>
+</edge>
+<edge source="FIA" target="McLaren (Woking)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Alonso" target="Hamilton">
+  <data key="d0">10</data>
+</edge>
+<edge source="Alonso" target="Bernie Ecclestone">
+  <data key="d0">1</data>
+</edge>
+<edge source="Alonso" target="Max Mosley">
+  <data key="d0">2</data>
+</edge>
+<edge source="Alonso" target="De la Rosa">
+  <data key="d0">8</data>
+</edge>
+<edge source="Alonso" target="Ron Dennis">
+  <data key="d0">10</data>
+</edge>
+<edge source="Hamilton" target="De la Rosa">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hamilton" target="Ron Dennis">
+  <data key="d0">1</data>
+</edge>
+<edge source="Bernie Ecclestone" target="Max Mosley">
+  <data key="d0">2</data>
+</edge>
+<edge source="Max Mosley" target="Ron Dennis">
+  <data key="d0">3</data>
+</edge>
+<edge source="Max Mosley" target="McLaren (Woking)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ross Brawn" target="Jean Todt">
+  <data key="d0">1</data>
+</edge>
+</graph></graphml>

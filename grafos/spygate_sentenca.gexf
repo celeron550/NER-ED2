@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-04-20">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Felipe Massa" label="Felipe Massa" />
+      <node id="Kimi Raikkonen" label="Kimi Raikkonen" />
+      <node id="Nigel Stepney" label="Nigel Stepney" />
+      <node id="Mike Coughlan" label="Mike Coughlan" />
+      <node id="Honda" label="Honda" />
+      <node id="FIA" label="FIA" />
+      <node id="Alonso" label="Alonso" />
+      <node id="Hamilton" label="Hamilton" />
+      <node id="Bernie Ecclestone" label="Bernie Ecclestone" />
+      <node id="Max Mosley" label="Max Mosley" />
+      <node id="De la Rosa" label="De la Rosa" />
+      <node id="McLaren (Woking)" label="McLaren (Woking)" />
+      <node id="Ron Dennis" label="Ron Dennis" />
+      <node id="Ross Brawn" label="Ross Brawn" />
+      <node id="Jean Todt" label="Jean Todt" />
+    </nodes>
+    <edges>
+      <edge source="Felipe Massa" target="Kimi Raikkonen" id="0" weight="2" />
+      <edge source="Felipe Massa" target="Alonso" id="1" weight="1" />
+      <edge source="Felipe Massa" target="Hamilton" id="2" weight="1" />
+      <edge source="Kimi Raikkonen" target="Alonso" id="3" weight="4" />
+      <edge source="Kimi Raikkonen" target="Hamilton" id="4" weight="1" />
+      <edge source="Nigel Stepney" target="Mike Coughlan" id="5" weight="15" />
+      <edge source="Nigel Stepney" target="Honda" id="6" weight="2" />
+      <edge source="Nigel Stepney" target="FIA" id="7" weight="5" />
+      <edge source="Nigel Stepney" target="Ross Brawn" id="8" weight="1" />
+      <edge source="Nigel Stepney" target="Ron Dennis" id="9" weight="1" />
+      <edge source="Mike Coughlan" target="Honda" id="10" weight="1" />
+      <edge source="Mike Coughlan" target="FIA" id="11" weight="4" />
+      <edge source="Mike Coughlan" target="McLaren (Woking)" id="12" weight="1" />
+      <edge source="Mike Coughlan" target="De la Rosa" id="13" weight="1" />
+      <edge source="Mike Coughlan" target="Alonso" id="14" weight="2" />
+      <edge source="FIA" target="Max Mosley" id="15" weight="5" />
+      <edge source="FIA" target="Ron Dennis" id="16" weight="4" />
+      <edge source="FIA" target="De la Rosa" id="17" weight="3" />
+      <edge source="FIA" target="Alonso" id="18" weight="6" />
+      <edge source="FIA" target="Hamilton" id="19" weight="1" />
+      <edge source="FIA" target="Bernie Ecclestone" id="20" weight="1" />
+      <edge source="FIA" target="McLaren (Woking)" id="21" weight="1" />
+      <edge source="Alonso" target="Hamilton" id="22" weight="10" />
+      <edge source="Alonso" target="Bernie Ecclestone" id="23" weight="1" />
+      <edge source="Alonso" target="Max Mosley" id="24" weight="2" />
+      <edge source="Alonso" target="De la Rosa" id="25" weight="8" />
+      <edge source="Alonso" target="Ron Dennis" id="26" weight="10" />
+      <edge source="Hamilton" target="De la Rosa" id="27" weight="1" />
+      <edge source="Hamilton" target="Ron Dennis" id="28" weight="1" />
+      <edge source="Bernie Ecclestone" target="Max Mosley" id="29" weight="2" />
+      <edge source="Max Mosley" target="Ron Dennis" id="30" weight="3" />
+      <edge source="Max Mosley" target="McLaren (Woking)" id="31" weight="1" />
+      <edge source="Ross Brawn" target="Jean Todt" id="32" weight="1" />
+    </edges>
+  </graph>
+</gexf>
