@@ -117,7 +117,6 @@ NER-ED2/
 ├── README.md                          # Este arquivo
 ├── requirements.txt                   # Dependências do projeto
 ├── AED2.ipynb                        # Notebook principal de análise
-├── merged.ipynb                      # Análises complementares
 ├── transcricao.ipynb                 # Processamento de transcrições
 ├── LICENSE                           # Licença do projeto
 ├── merged_transcripts_v2.txt         # Transcrições consolidadas (v2)
