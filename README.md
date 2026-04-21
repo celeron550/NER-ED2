@@ -2,9 +2,9 @@
 
 ## Integrantes
 
-- **Carlos Silvano de Oliveira Júnior**
-- **Félix Luiz Garção Filho**
-- **Pedro Henrique da Silva Paixão**
+- **Carlos Silvano de Oliveira Júnior (https://github.com/Carlos-Silvano)**
+- **Félix Luiz Garção Filho (https://github.com/celeron550)**
+- **Pedro Henrique da Silva Paixão (https://github.com/phpaixao)**
 
 ---
 
